@@ -1,0 +1,12 @@
+important features:
+    - 
+
+
+
+18/05:
+    - modifier query sql
+    - tester différents models / nombres de matchs (créer fonction)
+    - essayer de faire marcher save_xml.py (si possible)
+    - ajouter commentaires
+    - statistical analysis
+    
